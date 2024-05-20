@@ -11,7 +11,7 @@ async function renderApp(Component: React.FC) {
     const root = createRoot(container);
     root.render(
       <BrowserRouter basename="/app">
-        <title>React playground</title>
+        <title>React compiler demo</title>
         <Routes>
           <Route path="/*" element={<Component />} />
         </Routes>
