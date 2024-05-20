@@ -4,6 +4,8 @@ This repository demonstrates how the [React compliler](https://react.dev/blog/20
 
 ## Running locally
 
+_Note: This project was built using `node@20` and `npm@10` and hasn't been tested for other versions._
+
 To run the application locally run
 
 > npm i --legacy-peer-deps
